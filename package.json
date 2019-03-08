@@ -1,0 +1,23 @@
+{
+  "name": "nightwatch-issue-frame-missing-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "showIssue": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liunate/nightwatch-issue-frame-missing-id.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liunate/nightwatch-issue-frame-missing-id/issues"
+  },
+  "homepage": "https://github.com/liunate/nightwatch-issue-frame-missing-id#readme",
+  "dependencies": {
+    "chromedriver": "^2.46.0",
+    "nightwatch": "^1.0.19"
+  }
+}
